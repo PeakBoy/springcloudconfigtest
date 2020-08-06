@@ -1,2 +1,2 @@
 config:
-    info: msater branch,springcloud-config/config-dev.yml version
+    info: "msater branch,springcloud-config/config-dev.yml version=1"
